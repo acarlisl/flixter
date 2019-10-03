@@ -1,6 +1,8 @@
 /*** Master stylesheet for general, over-all page styling ***/
 
+/****************/
 /* Hero Styling */
+/****************/
 .hero {
   background: image_url('hero.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
@@ -34,4 +36,19 @@ h1, h2, h3, h4, h5, h6, .navbar {
 
 .btn {
   border-radius: 0;
+}
+
+
+/****************************************/
+/* Landing page feature section styling */
+/****************************************/
+.feature {
+  width: 100%;
+  padding-left: 5%;
+  padding-right: 5%;
+}
+
+body {
+  background: image_url('subtle_backgrounds/hotel-wallpaper/hotel-wallpaper.png');
+  font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
 }
