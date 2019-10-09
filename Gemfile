@@ -74,3 +74,6 @@ end
 
 # Simple Form gem for easy forms
 gem 'simple_form'
+
+# Devise gem for handling user authentication
+gem 'devise'
