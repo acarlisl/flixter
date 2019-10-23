@@ -82,3 +82,11 @@ body {
   padding: 2px 8px 2px 8px;
   margin: 10px;
 }
+
+
+/**************************************************************************/
+/* clr class can be added to prevent floating elements from spilling over */
+/**************************************************************************/
+.clr {
+  clear: both;
+}
